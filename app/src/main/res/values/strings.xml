@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="title_q_1">Question 1</string>
+
+    <string name="content_q_1"> Which of these keyword can be used in subclass to call the constructor of superclass?</string>
+
+    <string name="option_q_1_1">main()</string>
+
+    <string name="option_q_1_2">super</string>
+
+    <string name="option_q_1_3">extends</string>
+
+    <string name="title_q_2">Question 2</string>
+
+    <string name="content_q_2">Which class is the superclass for every class? </string>
+
+    <string name="option_q_2_1">object class</string>
+
+    <string name="option_q_2_2">abstarct class</string>
+
+    <string name="option_q_2_3">java.awt.font</string>
+
+    <string name="title_q_3">Question 3</string>
+
+    <string name="content_q_3">What is the main programming language for Android Development?</string>
+
+    <string name="title_q_5">Question 4</string>
+
+    <string name="content_q_5">Which of the following are Java keywords?</string>
+
+    <string name="option_q_5_1">true</string>
+
+    <string name="option_q_5_2">long</string>
+
+    <string name="option_q_5_3">static</string>
+
+    <string name="option_q_5_4">for</string>
+
+</resources>
